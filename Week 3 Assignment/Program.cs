@@ -60,7 +60,6 @@ namespace Week_3_Assignment
         public void DisplayInfo()
         {
             Console.WriteLine(_make + " " + _model + " " + _speed + " mph " + this.speedLimit());
-            Console.ReadKey();
         }
 
     }
