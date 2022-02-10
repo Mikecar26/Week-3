@@ -1,0 +1,15 @@
+D:\School\Game Sim\Week 3 Assignment\bin\Debug\net6.0\Week 3 Assignment.exe
+D:\School\Game Sim\Week 3 Assignment\bin\Debug\net6.0\Week 3 Assignment.deps.json
+D:\School\Game Sim\Week 3 Assignment\bin\Debug\net6.0\Week 3 Assignment.runtimeconfig.json
+D:\School\Game Sim\Week 3 Assignment\bin\Debug\net6.0\Week 3 Assignment.dll
+D:\School\Game Sim\Week 3 Assignment\bin\Debug\net6.0\ref\Week 3 Assignment.dll
+D:\School\Game Sim\Week 3 Assignment\bin\Debug\net6.0\Week 3 Assignment.pdb
+D:\School\Game Sim\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.csproj.AssemblyReference.cache
+D:\School\Game Sim\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Game Sim\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.AssemblyInfoInputs.cache
+D:\School\Game Sim\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.AssemblyInfo.cs
+D:\School\Game Sim\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.csproj.CoreCompileInputs.cache
+D:\School\Game Sim\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.dll
+D:\School\Game Sim\Week 3 Assignment\obj\Debug\net6.0\ref\Week 3 Assignment.dll
+D:\School\Game Sim\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.pdb
+D:\School\Game Sim\Week 3 Assignment\obj\Debug\net6.0\Week 3 Assignment.genruntimeconfig.cache
